@@ -1,0 +1,69 @@
+Which of the following relations has a foreign key in the Relational Schema?
+Garden
+
+What is the total number of relations in the Schema for the Garden Management database described above ?
+6
+
+Which of the following relationships require a separate relation to be created in the Schema?
+Gardens grow Flowers
+Gardeners care for Gardens
+
+How many relationships in the ER diagram include the Garden entity?
+3
+
+What type of relationship exists between Order and Product in the corresponding ER diagram?
+Many-to-many
+
+In the Relational Schema above, which attributes are foreign keys?
+All of the above
+
+
+14.29/20
+Based on the diagram below, match the pairs to describe the relationships.
+A Project is in a partial relationship with: Designer
+A Project can exist without a: Designer
+A Designer should be related to at least one: Machine
+The cardinality of the relationship of Project to Developer is: Many
+The cardinality of the relation of Mac Machine to Designer is: 1
+A PC can exist without a: Dev
+A Project can run on multiple: Servers
+
+
+Consider the following relationship involving two entities, students and sections:
+3
+
+The entity integrity rule states that:
+no primary key attribute can be null
+
+Which of the following are properties of relations?
+All of the above
+
+A rule that states that each foreign key value must match a primary key value in the other relation is called the:
+referential integrity constraint
+
+In a relation can an attribute be both a primary key and a foreign key.
+Yes
+
+
+If a regular entity type contains a multivalued attribute in an ER diagram then when creating the Relational Schema one must
+create two relations one containing the multivalued attribute 
+
+How many relations will there be in the Relational Schema associated with the ER diagram below? (chair ojne)
+2
+
+Which relation in the Relational Schema associated with the ER diagram below will contain a foreign key?
+Committee
+
+In the figure above, what type of relationship do the relations depict?
+One-to-Many 
+
+In the figure above, which attribute would be a foreign key?
+Student_ID in Room 
+
+
+
+
+
+
+
+
